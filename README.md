@@ -5,8 +5,10 @@
 
 ## What you need to do is-
 - Clone the repository.
+- Open the repository in your favorite code editor.
 - Run the following commands in the terminal
   `pip install selenium`
+  `pip install webdriver_manager`
 
 ### Getting Bored? Suprise your friends with these hacks!
 
