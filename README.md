@@ -13,8 +13,8 @@
 
 ### Getting Bored? Suprise your friends with these hacks!
 
-1. Use the Instagram Spammer to spam your friends on Instagram? No limit on the number of messages you want to send :) Just run the `instagramSpammer.py` file and you're good to go.
-2. Use the WhatsApp Spammer to spam your friends on WhatsApp? Again, no limit on the number of messages you want to send :) Just run the `whatsappSpammer.py` file and you're good to go.
+1. Use the Instagram Spammer to spam your friends on Instagram? No limit on the number of messages you want to send :) Just run the `instagramSpammer.py` file and follow the instructions.
+2. Use the WhatsApp Spammer to spam your friends on WhatsApp? Again, no limit on the number of messages you want to send :) Just run the `whatsappSpammer.py` file and follow the instructions.
 
 # Or
 
