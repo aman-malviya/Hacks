@@ -9,6 +9,7 @@
 - Run the following commands in the terminal
   `pip install selenium`
   `pip install webdriver_manager`
+- Run the python file and enjoy 🥳
 
 ### Getting Bored? Suprise your friends with these hacks!
 
