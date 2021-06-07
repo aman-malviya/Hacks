@@ -32,9 +32,10 @@ sleep(2)
 count=int(number_of_messages)
 
 while count>0:
-    driver.find_elements_by_class_name("_2_1wd ")[1].send_keys(message)
+    driver.find_elements_by_class_name("_2_1wd")[1].send_keys(message)
     driver.find_element_by_class_name("_1E0Oz").click()
     count-=1
 
 sleep(5)
 driver.close()
+
