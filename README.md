@@ -8,7 +8,7 @@
 - Open the repository in your favorite code editor.
 - Run the following commands in the terminal
   `pip install selenium`
-  `pip install webdriver_manager`
+  `pip install ChromeDriver`
 - Run the python file and enjoy 🥳
 
 ### Getting Bored? Suprise your friends with these hacks!
