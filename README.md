@@ -18,4 +18,4 @@
 
 # Or
 
-### Having so many pending follow requests on your instagram accouts? Let you computer take this opportunity. Run the `instagramReject.py` file, and all your pending follow requests will be automatically rejected.
+### Having so many pending follow requests on your instagram accouts? Let your computer take this opportunity. Run the `instagramReject.py` file, and all your pending follow requests will be automatically rejected.
