@@ -18,4 +18,8 @@
 
 # Or
 
-### Having so many pending follow requests on your instagram accouts? Let your computer take this opportunity. Run the `instagramReject.py` file, and all your pending follow requests will be automatically rejected.
+Having so many pending follow requests on your instagram account? Let your computer take this opportunity. Run the `instagramReject.py` file, and all your pending follow requests will be automatically rejected.
+
+# Or
+
+Having so many pending connection requests on your linkedin account? Let your computer take this opportunity. Run the `linkedinAutoAccept.py` file, and all your pending connection requests will be automatically accepted.
