@@ -9,7 +9,6 @@
 - Run the following commands in the terminal
   `pip install selenium`
   `pip install ChromeDriver`
-- Run the python file and enjoy 🥳
 
 ### Getting Bored? Suprise your friends with these hacks!
 
